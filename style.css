@@ -205,6 +205,9 @@ Template: readanddigest
       top: auto;
       left: auto;
     }
+    .page-id-4777 .eltdf-pt-one-item.eltdf-post-item.eltdf-active-post-page.eltdf-item-hovered .eltdf-pt-one-title-holder .eltdf-pt-one-title > a{
+      color: #FCEE21 !important;
+    }
     .page-id-4777 .eltdf-pt-one-item .eltdf-pt-one-image-holder .eltdf-post-info-category:hover,
     .page-id-4777 .eltdf-pt-one-item .eltdf-pt-one-image-holder .eltdf-post-info-category:focus {
       background-color: #333333;
