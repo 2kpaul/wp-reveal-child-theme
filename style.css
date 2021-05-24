@@ -225,3 +225,12 @@ Template: readanddigest
       color: #FCEE21;
     }
     /* end: Reveals - listing page */
+
+    /* comments */
+    #comments .eltdf-comments {
+      display: none;
+    }
+
+    #comments .eltdf-comment-number h6 {
+      cursor: pointer;
+    }
